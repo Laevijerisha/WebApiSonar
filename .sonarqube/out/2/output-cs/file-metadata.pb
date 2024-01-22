@@ -1,0 +1,9 @@
+R
+ID:\Microservice\Microservice\Webapis\Read\Controllers\DoctorController.csutf-8G
+>D:\Microservice\Microservice\Webapis\Read\Data\Appdbcontext.csutf-8H
+?D:\Microservice\Microservice\Webapis\Read\Models\DoctorModel.csutf-8=
+4D:\Microservice\Microservice\Webapis\Read\Program.csutf-8\
+QD:\Microservice\Microservice\Webapis\Read\obj\Debug\net7.0\Read.GlobalUsings.g.csutf-8t
+iD:\Microservice\Microservice\Webapis\Read\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8Z
+OD:\Microservice\Microservice\Webapis\Read\obj\Debug\net7.0\Read.AssemblyInfo.csutf-8m
+bD:\Microservice\Microservice\Webapis\Read\obj\Debug\net7.0\Read.MvcApplicationPartsAssemblyInfo.csutf-8

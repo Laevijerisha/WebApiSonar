@@ -1,0 +1,11 @@
+﻿D:\Microservice\Microservice\Webapis\Read\Controllers\DoctorController.cs
+D:\Microservice\Microservice\Webapis\Read\Data\Appdbcontext.cs
+D:\Microservice\Microservice\Webapis\Read\Models\DoctorModel.cs
+D:\Microservice\Microservice\Webapis\Read\Program.cs
+D:\Microservice\Microservice\Webapis\Read\obj\Debug\net7.0\Read.GlobalUsings.g.cs
+D:\Microservice\Microservice\Webapis\Read\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+D:\Microservice\Microservice\Webapis\Read\obj\Debug\net7.0\Read.AssemblyInfo.cs
+D:\Microservice\Microservice\Webapis\Read\obj\Debug\net7.0\Read.MvcApplicationPartsAssemblyInfo.cs
+D:\Microservice\Microservice\Webapis\Read\appsettings.Development.json
+D:\Microservice\Microservice\Webapis\Read\appsettings.json
+D:\Microservice\Microservice\Webapis\Read\Properties\launchSettings.json
